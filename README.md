@@ -1,4 +1,6 @@
 ## Overscripted Web: A Mozilla Data Analysis Challenge
+`August 31st, 2018: Submission deadline`
+
 ### How to participate
 
 The Systems Research Group at Mozilla have created and open sourced a data set of publicly available information that was collected by a November 2017 Web crawl. We want to empower the community to explore the unseen or otherwise not obvious series of JavaScript execution events that are triggered once a user visits a webpage, and all the first- and third-party events that are set in motion when people retrieve content.
